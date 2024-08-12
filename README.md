@@ -57,8 +57,3 @@ Boolian is minimal app designed to help people learn about NFTs,as NFTs have bec
 4. Connect your device or emulator and run the app
 5. The app is now running
 
-
-## Need Help?
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/kanahia-kaushal-9850bb253/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kanahia.jpeg/) 
