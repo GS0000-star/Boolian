@@ -50,7 +50,7 @@ Boolian is minimal app designed to help people learn about NFTs,as NFTs have bec
 
 ## Instructions
 1. Import the project through Android Studio or clone it
-   - `https://github.com/kanahia1/Boolian.git`
+   - `https://github.com/GS0000-star/Boolian.git`
 2. Change my google-services.json with your google-services.json
     - `../BoolianApp/app/google-services.json`
 3. Add Google OAuth 2.0 client ID in strings.xml
